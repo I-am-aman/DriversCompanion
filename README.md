@@ -1,6 +1,6 @@
 # DriversCompanion
 
-Driver'sCompanion is an android app to keep a check on driver and ensure the safety of the driver.</br>
+Driver'sCompanion is an android application to keep a check on driver and ensure the safety of the driver.</br>
 One only has to click on a button to activate the Driver's Mode. 
 
 
