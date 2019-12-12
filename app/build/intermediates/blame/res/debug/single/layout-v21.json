@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Dell-1\\AndroidStudioProjects\\DriversCompanion\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Dell-1\\.android\\build-cache\\c864e93571aba547ef2c5d295169ea9c9c1c9b44\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-1\\AndroidStudioProjects\\DriversCompanion\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Dell-1\\.android\\build-cache\\c864e93571aba547ef2c5d295169ea9c9c1c9b44\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-1\\AndroidStudioProjects\\DriversCompanion\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Dell-1\\.android\\build-cache\\c864e93571aba547ef2c5d295169ea9c9c1c9b44\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell-1\\AndroidStudioProjects\\DriversCompanion\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Dell-1\\.android\\build-cache\\c864e93571aba547ef2c5d295169ea9c9c1c9b44\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

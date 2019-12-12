@@ -1,0 +1,133 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml:10:22-76
+application
+ADDED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml:12:5-41:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Dell-1\.android\build-cache\c864e93571aba547ef2c5d295169ea9c9c1c9b44\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Dell-1\.android\build-cache\1ea29d7b3be860ea4f6847da0a891f996e60b96e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Dell-1\.android\build-cache\81149290e45ff2b7a86f8d7f1796d7a181a287fa\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Dell-1\.android\build-cache\d3cede8d3d0b2a417d82ce76da43edd6c3a97d47\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Dell-1\.android\build-cache\72d855876348ef954beb1082f910747ba2248697\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Dell-1\.android\build-cache\9b099951885a0b9bc06d4d96cd97fc3044f0c2f1\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Dell-1\.android\build-cache\c69119521b9ed8e22ed7c4c4b9e258fe6c2b3d91\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Dell-1\.android\build-cache\1c7907c2573b52566a68e21dc69792b7e978cc17\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Dell-1\.android\build-cache\e50b799fe54d7854729a2e2ab44354a03c73de5b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Dell-1\.android\build-cache\3c1f45dea380f81300706f768248929c977da03a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Dell-1\.android\build-cache\11ba421e8161793c170df1c924c87746c9606411\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Dell-1\.android\build-cache\928ff6f52110f94433d98d717addd47880c604a3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Dell-1\.android\build-cache\a3ac56bc7a08654909222e740427c838316f3335\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml:15:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml:17:9-35
+	android:roundIcon
+		ADDED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml:16:9-54
+	android:allowBackup
+		ADDED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml:14:9-43
+	android:theme
+		ADDED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml:18:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml:28:9-30:55
+	android:value
+		ADDED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml:30:13-52
+	android:name
+		ADDED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml:29:13-58
+activity#one_night_hack.hack36.driverscompanion.MapsActivity
+ADDED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml:32:9-40:20
+	android:label
+		ADDED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml:33:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml:38:27-74
+uses-sdk
+INJECTED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Dell-1\.android\build-cache\c864e93571aba547ef2c5d295169ea9c9c1c9b44\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Dell-1\.android\build-cache\1ea29d7b3be860ea4f6847da0a891f996e60b96e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Dell-1\.android\build-cache\81149290e45ff2b7a86f8d7f1796d7a181a287fa\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Dell-1\.android\build-cache\d3cede8d3d0b2a417d82ce76da43edd6c3a97d47\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Dell-1\.android\build-cache\72d855876348ef954beb1082f910747ba2248697\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Dell-1\.android\build-cache\9b099951885a0b9bc06d4d96cd97fc3044f0c2f1\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Dell-1\.android\build-cache\c69119521b9ed8e22ed7c4c4b9e258fe6c2b3d91\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Dell-1\.android\build-cache\1c7907c2573b52566a68e21dc69792b7e978cc17\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Dell-1\.android\build-cache\e50b799fe54d7854729a2e2ab44354a03c73de5b\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Dell-1\.android\build-cache\3c1f45dea380f81300706f768248929c977da03a\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Dell-1\.android\build-cache\11ba421e8161793c170df1c924c87746c9606411\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Dell-1\.android\build-cache\928ff6f52110f94433d98d717addd47880c604a3\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Dell-1\.android\build-cache\a3ac56bc7a08654909222e740427c838316f3335\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Dell-1\.android\build-cache\c864e93571aba547ef2c5d295169ea9c9c1c9b44\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dell-1\AndroidStudioProjects\DriversCompanion\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Dell-1\.android\build-cache\c864e93571aba547ef2c5d295169ea9c9c1c9b44\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Dell-1\.android\build-cache\1ea29d7b3be860ea4f6847da0a891f996e60b96e\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Dell-1\.android\build-cache\81149290e45ff2b7a86f8d7f1796d7a181a287fa\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Dell-1\.android\build-cache\1c7907c2573b52566a68e21dc69792b7e978cc17\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Dell-1\.android\build-cache\e50b799fe54d7854729a2e2ab44354a03c73de5b\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Dell-1\.android\build-cache\3c1f45dea380f81300706f768248929c977da03a\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Dell-1\.android\build-cache\11ba421e8161793c170df1c924c87746c9606411\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Dell-1\.android\build-cache\928ff6f52110f94433d98d717addd47880c604a3\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Dell-1\.android\build-cache\a3ac56bc7a08654909222e740427c838316f3335\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Dell-1\.android\build-cache\c864e93571aba547ef2c5d295169ea9c9c1c9b44\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Dell-1\.android\build-cache\c864e93571aba547ef2c5d295169ea9c9c1c9b44\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Dell-1\.android\build-cache\d3cede8d3d0b2a417d82ce76da43edd6c3a97d47\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Dell-1\.android\build-cache\d3cede8d3d0b2a417d82ce76da43edd6c3a97d47\output\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Dell-1\.android\build-cache\d3cede8d3d0b2a417d82ce76da43edd6c3a97d47\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Dell-1\.android\build-cache\d3cede8d3d0b2a417d82ce76da43edd6c3a97d47\output\AndroidManifest.xml:20:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Dell-1\.android\build-cache\d3cede8d3d0b2a417d82ce76da43edd6c3a97d47\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Dell-1\.android\build-cache\d3cede8d3d0b2a417d82ce76da43edd6c3a97d47\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Dell-1\.android\build-cache\d3cede8d3d0b2a417d82ce76da43edd6c3a97d47\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Dell-1\.android\build-cache\72d855876348ef954beb1082f910747ba2248697\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Dell-1\.android\build-cache\72d855876348ef954beb1082f910747ba2248697\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Dell-1\.android\build-cache\72d855876348ef954beb1082f910747ba2248697\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Dell-1\.android\build-cache\72d855876348ef954beb1082f910747ba2248697\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Dell-1\.android\build-cache\c69119521b9ed8e22ed7c4c4b9e258fe6c2b3d91\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Dell-1\.android\build-cache\c69119521b9ed8e22ed7c4c4b9e258fe6c2b3d91\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Dell-1\.android\build-cache\c69119521b9ed8e22ed7c4c4b9e258fe6c2b3d91\output\AndroidManifest.xml:20:20-65

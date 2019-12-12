@@ -1,0 +1,7 @@
+#Sat Jan 27 04:21:08 IST 2018
+base.0=C\:\\Users\\Dell-1\\AndroidStudioProjects\\DriversCompanion\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8e1b987f23b1c9df7f8a27ec1e511e41efd472b1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Dell-1\\AndroidStudioProjects\\DriversCompanion\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b27df02b135262df42bf97624ef8948fbfc5cd7b\\classes.dex
+base.1=C\:\\Users\\Dell-1\\AndroidStudioProjects\\DriversCompanion\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b27df02b135262df42bf97624ef8948fbfc5cd7b
+file.0=C\:\\Users\\Dell-1\\AndroidStudioProjects\\DriversCompanion\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8e1b987f23b1c9df7f8a27ec1e511e41efd472b1\\classes.dex
